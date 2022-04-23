@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrepester&show_icons=true&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrepester&show_icons=true&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=andrepester.andrepester)
 
 <!--
 **andrepester/andrepester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
